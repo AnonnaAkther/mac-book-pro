@@ -1,0 +1,27 @@
+.container{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+}
+.img{
+    height: 400px;
+    padding-right: 50px;
+}
+.button{
+    background-color: rgba(240, 30, 30, 0.952);
+    color: white;
+    border-radius: 5px;
+}
+.best, .total{
+    padding-left: 90px;  
+}
+.d-charge{
+    padding-left: 40px;
+}
+#extra{
+    padding-left: 15px;
+}
+hr{
+    width: 430px;
+    padding-right: 1500px;
+    padding-left: 50px;
+}
